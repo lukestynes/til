@@ -16,6 +16,6 @@ This collection was inspired by Greg Smith [iamgbsmith/til(https://github.com/ia
 
 ## License
 
-&copy; 2023 Greg Smith
+&copy; 2023 Luke Stynes
 
 This repository is licensed under the MIT license. See `LICENSE` for details.
