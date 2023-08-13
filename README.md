@@ -12,7 +12,7 @@ _0 TILs and counting..._
 
 ## About
 
-This collection was inspired by Greg Smith [iamgbsmith/til(https://github.com/iamgbsmith/til).
+This collection was inspired by Greg Smith [iamgbsmith/til](https://github.com/iamgbsmith/til).
 
 ## License
 
